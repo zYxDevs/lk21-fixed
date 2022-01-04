@@ -19,7 +19,7 @@ Menggunakan python package manager
 python -m pip install lk21-fixed
 ```
 
-bagaimana jika terdapat versi baru? tidak perlu khawatir `lk21` sudah dilengkapi dengan pemberitahuan yang akan muncul setelah program selesai dijalankan. Kamu bisa langsung memperbaharui menggunakan perintah berikut
+bagaimana jika terdapat versi baru? tidak perlu khawatir `lk21-fixed` sudah dilengkapi dengan pemberitahuan yang akan muncul setelah program selesai dijalankan. Kamu bisa langsung memperbaharui menggunakan perintah berikut
 ```bash
 python -m pip install --upgrade lk21-fixed
 ```
