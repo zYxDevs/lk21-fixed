@@ -153,4 +153,4 @@ bypasser.bypass_url("https://letsupload.io/49FA1/Otakudesu_ShoShuuRyo--09_360p.m
 
 -------
 
-lk21 is licensed under MIT License
+`lk21-fixed` is licensed under MIT License
