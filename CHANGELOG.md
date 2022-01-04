@@ -11,4 +11,5 @@
     - `https://riie.one`
     - `https://194.163.183.129`
     - `https://dramaindo.xyz/`
+    - `https://kdramaindo.live/`
   - Minor bug fixing on bypasser
