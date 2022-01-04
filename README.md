@@ -2,8 +2,12 @@
 
 <br/>
 <div align="center">
-<strong> unduh anime dan film subtitle Indonesia </strong>
+<strong> Unduh Anime dan Film Subtitle Indonesia </strong>
 </div>
+
+-------
+
+<b>This is the forked version of [lk21](https://github.com/zevtyardt/lk21) with small fixed and improvements.</b>
 
 -------
 
