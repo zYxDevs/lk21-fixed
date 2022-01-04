@@ -14,12 +14,17 @@
 Pernah terpikir untuk menonton film atau anime di website secara gratis tapi selalu direpotkan dengan iklan. atau jika ingin mendownload harus melalui shortlink ini itu, tenang melalui tool ini anda dapat dengan mudah mencari link download anime atau film yang anda inginkan tanpa harus terganggu oleh iklan dan shortlink.
 
 # instalasi
-Menggunakan python package manager
+Menggunakan git clone:
+```bash
+git clone https://github.com/zYxDevs/lk21-fixed
+```
+
+Menggunakan python package manager:
 ```bash
 python -m pip install lk21-fixed
 ```
 
-bagaimana jika terdapat versi baru? tidak perlu khawatir `lk21-fixed` sudah dilengkapi dengan pemberitahuan yang akan muncul setelah program selesai dijalankan. Kamu bisa langsung memperbaharui menggunakan perintah berikut
+Bagaimana jika terdapat versi baru? tidak perlu khawatir `lk21-fixed` sudah dilengkapi dengan pemberitahuan yang akan muncul setelah program selesai dijalankan. Kamu bisa langsung memperbaharui menggunakan perintah berikut:
 ```bash
 python -m pip install --upgrade lk21-fixed
 ```
