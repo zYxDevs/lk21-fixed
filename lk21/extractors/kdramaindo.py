@@ -3,7 +3,7 @@ from . import BaseExtractor
 
 class KDramaindo(BaseExtractor):
     tag = "movie"
-    host = "https://k.dramaindo.my.id"
+    host = "https://kdramaindo.live/"
 
     def extract_meta(self, id: str) -> dict:
         """
