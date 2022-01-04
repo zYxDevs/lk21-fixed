@@ -1,0 +1,14 @@
+# Changelog
+- Versi 0.0.1
+  - First Release
+  - Menambahkan 1 ekstraktor baru
+    - `nekonime.site`
+  - Update host url
+    - `oploverz.fan`
+    - `https://anibatch.anibatch.moe/`
+    - `http://167.99.31.48`
+    - `https://otakudesu.info`
+    - `https://riie.one`
+    - `https://194.163.183.129`
+    - `https://dramaindo.xyz/`
+  - Minor bug fixing on bypasser
