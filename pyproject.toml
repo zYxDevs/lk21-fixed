@@ -4,10 +4,10 @@ build-backend = "flit_core.buildapi"
 
 [tool.flit.metadata]
 module = "lk21"
-author = "Yoga"
+author = "Yoga Pranata"
 license = "MIT"
-author-email = "ahmadzaylani001@gmail.com"
-home-page = "https://github.com/zYxDevs"
+author-email = "zyxdevs@otakufanshare.eu.org"
+home-page = "https://www.otakufanshare.eu.org"
 description-file = "README.md"
 classifiers = ["License :: OSI Approved :: MIT License"]
 requires = ["questionary", "bs4", "requests", "requests-cache", "colorama"]
